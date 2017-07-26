@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Spikes
+  - isBox
+  - isSpike
+  - Locked Door
+  - ExitDoor
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Box
+  - Player
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Spikes
+    uniqueID: 1954733775
+    locked: 0
+  - name: Platform Layer 1
+    uniqueID: 1205852533
+    locked: 0
+  - name: Platform Layer 2
+    uniqueID: 129147807
+    locked: 0
+  - name: Platform Layer 3
+    uniqueID: 1746344313
+    locked: 0
+  - name: Text
+    uniqueID: 1511704487
+    locked: 0
+  - name: Player
+    uniqueID: 1722113437
+    locked: 0
